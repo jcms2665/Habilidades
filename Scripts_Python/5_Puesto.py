@@ -1,15 +1,4 @@
 
-# Carpeta donde está la última base OCC_2022_29_08_A
-datos="C:/Users/jcmartinez/OneDrive - El Colegio de México A.C/5. Proyectos/2022/70. Habilidades/1. Datos/1.8 Base_Braulio_29082022/"
-
-# Aquí esta el archivo de clasificadores
-clasificadores="C:/Users/jcmartinez/OneDrive - El Colegio de México A.C/5. Proyectos/2022/70. Habilidades/1. Datos/1.6 Clasificación/INEGI_Clasificadores/"
-# En el archivo "clasificadores.xlsx" se encuentran los clasificadores
-
-resultados="C:/Users/jcmartinez/OneDrive - El Colegio de México A.C/5. Proyectos/2022/70. Habilidades/1. Datos/1.8 Base_Braulio_29082022/Base/"
-
-
-
 
 # 0. CARGAR BASES --------------------------------------------------------
 
